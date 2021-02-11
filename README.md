@@ -1,2 +1,2 @@
-# OpenGl
-C/C++ OpenGL village scene 
+# C/C++
+C/C++ applications will be cooking here. 
