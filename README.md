@@ -1,2 +1,2 @@
 # C/C++
-C/C++ applications will be cooking here. 
+Simple C/C++ tryouts repo.
